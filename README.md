@@ -8,4 +8,12 @@ Student Projects 2023
 4) CMPG-323-Project4-34262512 (Testing  and Robotic Process Automation) which will link the tasks that listed in the Semester Plan Kanban Guide
 5) CMPG-323-Project5-34262512 (Eco Power Logistics report to be build in Power Bi and retrieve data from Excel) hich will link the tasks that listed in the Semester Plan Kanban Guide
 
-   
+This diagram/graph illistrates the Sprint view as appose to taskes that has to be done from Project 1-5 and also including POE. It is grouped according to the sprints provided   
+![image](https://github.com/ERVanWyk/CMPG-323-Overview-34262512/assets/141569983/e6019dc4-1970-4034-b93b-beef10a575ed)
+
+Brancing strategy:
+Making use of lable categories the project can be linked by activity type. Merge feature branches into the main branch using pull requests. The dates are also used on the main branch to maintain the qulaity.
+
+Storage credentials and sensitive information:
+Repositories are made private and access is only granted to certain user for marking guidance.
+Stored on Github 
