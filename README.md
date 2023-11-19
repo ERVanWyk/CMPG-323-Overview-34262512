@@ -17,3 +17,7 @@ Making use of lable categories the project can be linked by activity type. Merge
 Storage credentials and sensitive information:
 Repositories are made private and access is only granted to certain user for marking guidance.
 Stored on Github 
+
+Kanban Scrum Boards
+Source: https://stackoverflow.com/questions/1807100/kanban-scrum-boards
+<img width="1370" alt="Screenshot 2023-11-19 at 15 40 23" src="https://github.com/ERVanWyk/CMPG-323-Overview-34262512/assets/141569983/a5cdbc72-2b18-43e1-8502-0fd0a337d6cc">
